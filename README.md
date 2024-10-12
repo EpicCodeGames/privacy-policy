@@ -1,2 +1,2 @@
 # privacy-policy
-"Documentation and legal information for [اسم التطبيق]. Future updates will include more details."
+"Documentation and legal information for [ECG Question]. Future updates will include more details."
